@@ -1,0 +1,7 @@
+Parser:unpack each instruction into its underlying fields
+Code:translate each field into its corresponding binary value
+SymbolTable
+Main:
+
+line:
+1. @VAR
